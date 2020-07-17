@@ -1,14 +1,12 @@
-# Hi there 👋
-I’m Samuel Heinzelman. Passionate about technology and what can be achieved with it to transform the world.
-!asd
+## Hi there 👋
+I’m Samuel Heinzelmann. Passionate about technology and what can be achieved with it to transform the world.
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React Native...
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
--->
+- 🌱 I’m currently learning Flutter...
 - 💬 Ask me about programming, technologies, films and series.
-- 📫 How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-SamuelHeinzelmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-duarte-3392bb153/)](https://www.linkedin.com/in/hugo-duarte-3392bb153/) 
-[![Gmail Badge](https://img.shields.io/badge/-fhugoduarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fhugoduarte@gmail.com)](mailto:fhugoduarte@gmail.com)
+📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-SamuelHeinzelmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-heinzelmann-1b028b31/)](https://www.linkedin.com/in/samuel-heinzelmann-1b028b31/)
+[![Gmail Badge](https://img.shields.io/badge/-samukahweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samukahweb@gmail.com)](mailto:samukahweb@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Samukah-purple?style=flat-square&logo=Discord&logoColor=white&link=https://discordapp.com/users/613190538287513620/)](https://discordapp.com/users/613190538287513620/)
