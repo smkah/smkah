@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, Samukah here!</h1>
+<h1 align="left">Hi, Samukah here!</h1>
 I'm a passionate about technology and what can be achieved with it to transform the world.
 
 - 🔭 I’m currently working on **Flux - App for photographers [Spoiler]** ...
