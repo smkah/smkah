@@ -4,7 +4,7 @@ I'm a passionate about technology and what can be achieved with it to transform 
 - 🔭 I’m currently working on **Flux - App for photographers [Spoiler]** ...
 - 🌱 I’m currently learning **React Native, Electron**...
 - 💬 Ask me about programming, technologies like **JavaScript, HTML, CSS, SQL, Node.JS**
-- ⚡ Fun fact **Good movies? Ask me  😜**
+- ⚡ Fun fact: **Good movies? Ask me  😜**
 
 
 ## 🛠 &nbsp;Tech Stack
