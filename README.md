@@ -23,6 +23,8 @@ I'm a passionate about technology and what can be achieved with it to transform 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smkah&repo=github-readme-stats)](https://github.com/smkah/github-readme-stats)
+
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smkah&layout=compact&theme=vision-friendly-light" alt="Smkah's most languages"/>
 
 ## 📫 &nbsp;How to reach me:
