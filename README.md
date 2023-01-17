@@ -23,7 +23,7 @@ I'm a passionate about technology and what can be achieved with it to transform 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-![Smkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkah&hide=contribs,prs)
+![Smkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkah)
 
 ## 📫 &nbsp;How to reach me:
 
