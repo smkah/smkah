@@ -23,9 +23,7 @@ I'm a passionate about technology and what can be achieved with it to transform 
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![Smkah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smkah&layout=compact&theme=vision-friendly-light)](https://github.com/smkah)
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smkah&layout=compact&theme=vision-friendly-light" alt="Smkah's most languages"/>
+![Smkah's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkah&hide=contribs,prs)
 
 ## 📫 &nbsp;How to reach me:
 
